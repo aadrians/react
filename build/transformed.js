@@ -9453,6 +9453,8 @@ var React = __webpack_require__(17);
 var SubComp = __webpack_require__(85);
 var Button = __webpack_require__(82);
 var ButtonComp = __webpack_require__(83);
+
+//This is incorrect:
 //var ButtonCompES6 = require('./ButtonCompES6');
 
 var App = React.createClass({
